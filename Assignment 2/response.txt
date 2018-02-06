@@ -1,0 +1,6 @@
+One way the data can travel through the internet is routing through IP. The data travels across the internet in packets.
+The relationship between IP and DNS is that they both work in a server and network to work together to make it work.
+a cookie is something you bake for your kids or for yourself when you want a yummy treat. Just kidding the cookie is a small piece of data sent from websites and stored on the computer by the web browser.
+Three basic parts to a URL is a scheme where the scheme identifies the protocol to be able to access the internet.
+The other is host  which identifies the host that holds the resources.
+the last could be the path which identifies the specific resourses in the hosts that the web user wants to access.
