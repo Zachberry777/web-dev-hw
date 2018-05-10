@@ -1,0 +1,42 @@
+html {
+  padding: 1;
+}
+
+#body {
+  padding: 1;
+  margin: 0 0 0 0;
+  background-color: white;
+}
+
+#body {
+  border: 25px ridge blue;
+  padding: 1px;
+}
+
+#title {
+  border: 25px groove blue;
+  padding: 1px;
+}
+
+
+.button {
+  font-size: 1.5em;
+  color: white;
+  font-weight: 475;
+  background-color: white;
+  text-align: center;
+}
+
+.button:hover {
+  color: green;
+  font-weight: normal;
+}
+
+.button:active {
+  color: blue;
+  background-color: black;
+}
+
+.button:visited {
+  color: red;
+}
